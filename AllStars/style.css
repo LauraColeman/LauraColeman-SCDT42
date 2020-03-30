@@ -1,0 +1,52 @@
+
+body{
+    
+    margin:30px;
+    padding:10px;
+}
+
+.jumbotron{
+    text-align: center;
+    padding-top:30px;
+    padding-bottom:30px;
+    margin:20px;
+    
+    
+}
+
+h1{
+    font-size:75px;
+}
+
+.navbar-custom{
+    background-color:#336e7b;
+    font-family:agency fb;
+    font-size:33px;
+    color:blueviolet;
+    padding-top:5px;
+    padding-left:14px;
+    padding-right:14px;
+    margin:20px;
+   
+   
+        
+    
+}
+
+.navbar-nav>li>a{
+    color:#eeeeee;
+}
+
+
+.card-deck{
+    
+    padding:5px;
+  
+ 
+    
+}
+
+#top-card{
+    margin:20px;
+    height:400px;
+}
